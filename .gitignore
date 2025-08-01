@@ -1,0 +1,7 @@
+.venv3_9/
+__pycache__/
+*.pyc
+keystore.jks
+.buildozer
+bin
+buildozer.spec
