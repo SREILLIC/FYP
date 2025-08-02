@@ -12,6 +12,7 @@ Disclaimer: Easy way is for android use, hard way is for WSL2 demo production.
 
 1 - Download ONLY the "FYP.apk" file from my GitHub repo (https://github.com/SREILLIC/FYP).  
 2 - Install it on your ANDROID device.  
+3 - If you don't see it, that's because apk creation failed on the last step...again.
 
 # Installation (the HARD way - for making your own kivy apps in WSL2):  
 If you didn't know, WSL2 is basically Linux installed unto Windows!  
@@ -111,7 +112,7 @@ I tried making it as easy as possible for you to install, while maintaining tran
 
 I used Anaconda/Jupyter notebooks for project plan to keep myself on track and partial testing of code.  
 
-I typed most of the README while the apk was busy being made, lol.  
+I typed most of the README while the apk was busy being made, lol(edit: while the apk was busy failing to be made - after almost an HOUR - on the last step (again) and vomiting red flavoured text errors left-right-and-center).  
 
 Ask an AI what parts of my code does if you want to get a general idea of how it works.  
 
